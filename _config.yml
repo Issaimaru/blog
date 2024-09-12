@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "いっさいまるの自由帳へようこそ！"
+name: "issaimaru"
+title: "森羅万象全てなんもわからん"
+description: "森羅万象全てなんもわからんへようこそ！"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog/
