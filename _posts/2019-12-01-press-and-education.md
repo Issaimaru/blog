@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  " Culinary Arts in Europe by Jean Anthelme Brillat-Savarin"
-author: sal
+title:  "test page 2"
+author: issaimaru
 categories: [ Lifestyle ]
 image: assets/images/7.jpg
 ---
